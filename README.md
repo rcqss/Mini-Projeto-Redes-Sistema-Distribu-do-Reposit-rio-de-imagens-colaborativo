@@ -25,9 +25,6 @@ src/
  ├─ server.py   # Servidor TCP: trata AUTH, UPLOAD, LIST, DOWNLOAD, VIEW
  └─ client.py   # Cliente TCP: menu interativo e envio dos comandos
 
-docs/
- └─ atividade.pdf  # Enunciado da atividade (opcional)
+pdf da atividade
 
-requirements.txt   # Dependências Python
 README.md          # Este arquivo
-.gitignore         # Arquivos/pastas ignorados no Git
